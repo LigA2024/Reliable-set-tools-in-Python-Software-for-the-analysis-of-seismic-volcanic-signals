@@ -1,0 +1,2 @@
+# Reliable-set-tools-in-Python-Software-for-the-analysis-of-seismic-volcanic-signals
+A reliable Python software toolkit for seismic-volcanic signal analysis, featuring a GUI that facilitates efficient management of seismic signal formats. It offers fast and easy management of analysis time and generates conclusions that provide further information about volcanic processes (pre-eruptive and post-eruptive).
