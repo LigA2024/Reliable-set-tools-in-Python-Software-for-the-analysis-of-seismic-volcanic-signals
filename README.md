@@ -316,7 +316,7 @@ c) In the desktop, run this file as "administrator" (right click on the file and
              	=      Welcome to:                              =
              	=                                               =
              	=  Reliable set tools in Python Software for    =
- 		=  the analysis of seismic-volcanic signals     =
+ 		        =  the analysis of seismic-volcanic signals     =
                 =                                               =
                 =  Theoretical and Cosmos Physics Department.   = 
                 =                Science Faculty                =
