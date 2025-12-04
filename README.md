@@ -402,4 +402,5 @@ other analysis tools, and volcano-Seismic signals classification which provide a
 
 ** THEY WILL BE AVAILABLE FOR DOWNLOAD IN THE FUTURE **
 Thanks.
+
 Author: Developed, Design and writing by: Ligdamis A. Gutiérrez E. PhD.
